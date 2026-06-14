@@ -1,11 +1,11 @@
 # Hi there, I'm Şifanur Özdemir 👋
 
 <p align="left">
-  <a href="https://linkedin.com/in/sifanurozdemir" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/sifanur-ozdemir" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:sifanrozdemir@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-I am a **Computer & Software Engineer** deeply passionate about **Artificial Intelligence, Deep Learning, and Generative AI**. I focus on building end-to-end data pipelines, processing complex voice/image datasets, and turning raw data into actionable business value.
+I am a **Computer Engineer** deeply passionate about **Artificial Intelligence, Deep Learning, and Generative AI**. I focus on building end-to-end data pipelines, processing complex voice/image datasets, and turning raw data into actionable business value.
 
 ---
 
@@ -91,5 +91,5 @@ I am a **Computer & Software Engineer** deeply passionate about **Artificial Int
 ### 📫 Let's Connect!
 
 *   📧 Email: [sifanrozdemir@gmail.com](mailto:sifanrozdemir@gmail.com)
-*   💼 LinkedIn: [Şifanur Özdemir](https://linkedin.com/in/sifanurozdemir)
+*   💼 LinkedIn: [Şifanur Özdemir](https://linkedin.com/in/sifanur-ozdemir)
 *   💻 GitHub: [@sifanurozdemir](https://github.com/sifanurozdemir)
